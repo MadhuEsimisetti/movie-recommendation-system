@@ -108,3 +108,13 @@ TF-IDF
 
 Cosine Similarity
 
+
+## 📂 Project Structure
+
+```text
+movie-recommendation-system/
+│
+├── app.py
+├── requirements.txt
+├── .gitignore
+└── README.md
