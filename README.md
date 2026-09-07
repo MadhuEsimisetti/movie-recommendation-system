@@ -18,6 +18,18 @@ Run the application locally using Streamlit.
 
 
 
+\## 🖥️ Application Output
+
+
+
+Here is a screenshot of the movie recommendation system:
+
+
+
+!\[Movie Recommendation System](movie\_output.png)
+
+
+
 \## 🧠 How It Works
 
 
